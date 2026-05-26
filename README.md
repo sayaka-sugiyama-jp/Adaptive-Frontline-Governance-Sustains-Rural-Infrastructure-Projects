@@ -32,3 +32,6 @@ https://livingatlas.arcgis.com/landcoverexplorer/
 
 * WorldPop population data:
 https://hub.worldpop.org/geodata/summary?id=25742
+
+* Sri Lanka's rural irrigation infrastructure rehabilitation project data:
+Not publicly available. Please contact the Irrigation Department of Sri Lanka.
